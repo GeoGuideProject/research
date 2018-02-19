@@ -1,0 +1,1 @@
+# One Click Mining — Interactive Local Pattern Discovery through Implicit Preference and Performance Learning [[PDF]](http://poloclub.gatech.edu/idea2013/papers/p28-boley.pdf)

@@ -1,0 +1,1 @@
+# Explore-by-Example: An Automatic Query Steering Framework for Interactive Data Exploration [[PDF]](https://people.cs.umass.edu/~yanlei/publications/sigmod2014-explore.pdf)

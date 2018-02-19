@@ -1,0 +1,1 @@
+# Combining User Interaction, Speculative Query Execution and Sampling in the DICE System [[PDF]](http://www.vldb.org/pvldb/vol7/p1697-jayachandran.pdf)

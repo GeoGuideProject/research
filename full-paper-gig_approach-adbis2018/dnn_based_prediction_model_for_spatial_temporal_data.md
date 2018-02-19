@@ -1,0 +1,1 @@
+# DNN-Based Prediction Model for Spatial-Temporal Data [[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/DeepST-SIGSPATIAL2016.pdf)

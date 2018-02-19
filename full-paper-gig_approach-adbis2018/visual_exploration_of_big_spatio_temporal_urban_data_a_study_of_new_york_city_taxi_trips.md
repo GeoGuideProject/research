@@ -1,0 +1,1 @@
+# Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips [[PDF]](https://vgc.poly.edu/~juliana/pub/taxivis-tvcg2013.pdf)

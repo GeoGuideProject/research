@@ -1,0 +1,1 @@
+# Invisible Loading: Access-Driven Data Transfer from Raw Files into Database Systems [[PDF]](http://cs-www.cs.yale.edu/homes/dna/papers/invisibleloading.pdf)
